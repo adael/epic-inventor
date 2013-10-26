@@ -1,0 +1,105 @@
+//<name> <type> <collection min> <collection max> <collection time>
+Copper Metal 1 2 5
+5
+30
+15
+1
+0
+
+Diamond Gem 1 1 10
+0
+0
+0
+0
+10
+
+Emerald Gem 1 1 5
+0
+0
+9
+1
+0
+
+Gold Metal 1 2 10
+0
+0
+0
+5
+20
+
+Idol Bush 1 1 1
+1
+0
+0
+0
+0
+
+Iron Metal 1 2 5
+0
+15
+20
+5
+0
+
+Plant Bush 0 0 3
+90
+0
+0
+0
+0
+
+Platinum Metal 1 1 10
+0
+0
+0
+0
+10
+
+Ruby Gem 1 1 15
+0
+0
+0
+9
+1
+
+Sapphire Gem 1 1 5
+0
+7
+3
+1
+0
+
+Silver Metal 1 2 5
+0
+0
+5
+20
+5
+
+Stone Stone 1 3 3
+30
+10
+10
+10
+10
+
+Tulip Bush 0 0 1
+1
+0
+0
+0
+0
+
+Wood Wood 1 3 3
+90
+0
+0
+0
+0
+
+XPCrystal Gem 1 1 1
+0
+0
+0
+0
+0

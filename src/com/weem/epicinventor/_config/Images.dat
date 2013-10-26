@@ -1,0 +1,1082 @@
+//hud
+o HUD/ArmorInfo/BG.png
+o HUD/Common/QuickLoot.png
+o HUD/Console/BG.png
+o HUD/Container/BG.png
+o HUD/Container/BG1.png
+o HUD/Container/BG2.png
+o HUD/Container/BG3.png
+o HUD/Container/ButtonClose.png
+o HUD/Container/Slot.png
+o HUD/Credits/BG.png
+o HUD/Credits/ButtonExit.png
+o HUD/Credits/ButtonMainMenu.png
+o HUD/Farm/BG.png
+o HUD/Farm/BG1.png
+o HUD/Farm/BG2.png
+o HUD/Farm/BG3.png
+o HUD/Farm/ButtonClose.png
+o HUD/Farm/Slot.png
+o HUD/LevelUp/BG.png
+o HUD/LevelUp/ButtonClose.png
+o HUD/Master/Armor.png
+o HUD/Master/ArmorOn.png
+o HUD/Master/ArrowLeft.png
+o HUD/Master/ArrowRight.png
+o HUD/Master/Attachments.png
+o HUD/Master/AttachmentsOn.png
+o HUD/Master/BG.png
+o HUD/Master/BG1.png
+o HUD/Master/BG2.png
+o HUD/Master/BG3.png
+o HUD/Master/BG4.png
+o HUD/Master/Combat.png
+o HUD/Master/CombatOn.png
+o HUD/Master/Create.png
+o HUD/Master/CreateOn.png
+o HUD/Master/Development.png
+o HUD/Master/DevelopmentOn.png
+o HUD/Master/HaveMaterials.png
+o HUD/Master/HaveMaterialsOn.png
+o HUD/Master/Items.png
+o HUD/Master/ItemsOn.png
+o HUD/Master/Learn.png
+o HUD/Master/LearnOn.png
+o HUD/Master/Other.png
+o HUD/Master/OtherOn.png
+o HUD/Master/Placeables.png
+o HUD/Master/PlaceablesOn.png
+o HUD/Master/Slot.png
+o HUD/Master/Technologies.png
+o HUD/Master/TechnologiesOn.png
+o HUD/Master/Trash.png
+o HUD/Master/Value.png
+o HUD/Master/Weapons.png
+o HUD/Master/WeaponsOn.png
+o HUD/Pause/BG.png
+o HUD/Pause/ButtonCrafting.png
+o HUD/Pause/ButtonCredits.png
+o HUD/Pause/ButtonDonate.png
+o HUD/Pause/ButtonResume.png
+o HUD/Pause/ButtonSave.png
+o HUD/Pause/ButtonTutorial.png
+o HUD/PlayerContainer/BG.png
+o HUD/PlayerContainer/BG1.png
+o HUD/PlayerContainer/BG2.png
+o HUD/PlayerContainer/BG3.png
+o HUD/PlayerContainer/ButtonClose.png
+o HUD/PlayerContainer/Slot.png
+o HUD/Portrait/BG.png
+o HUD/Portrait/MobAggressiveSnake.png
+o HUD/Portrait/MobBossOrc.png
+o HUD/Portrait/MobLionFly.png
+o HUD/Portrait/MobOrc.png
+o HUD/Portrait/MobPig.png
+o HUD/Portrait/MobPorcupine.png
+o HUD/Portrait/MobRedOrc.png
+o HUD/Portrait/MobRockMonster.png
+o HUD/Portrait/MobSnail.png
+o HUD/Portrait/MobSnake.png
+o HUD/Portrait/MobSpiderWorm.png
+o HUD/Portrait/MobZombieWalrus.png
+o HUD/QuickBar/BG.png
+o HUD/QuickBar/BGRobotOn.png
+o HUD/QuickBar/ButtonExit.png
+o HUD/QuickBar/ButtonHelp.png
+o HUD/QuickBar/ButtonInventory.png
+o HUD/QuickBar/ButtonPause.png
+o HUD/QuickBar/ButtonPlay.png
+o HUD/QuickBar/ButtonReportBugs.png
+o HUD/QuickBar/Divider.png
+o HUD/QuickBar/HPBar.png
+o HUD/QuickBar/HPBG.png
+o HUD/QuickBar/Lock.png
+o HUD/QuickBar/LockBG.png
+o HUD/QuickBar/LockOn.png
+o HUD/QuickBar/Power.png
+o HUD/QuickBar/RobotAggressive.png
+o HUD/QuickBar/RobotAggressiveOn.png
+o HUD/QuickBar/RobotBattery.png
+o HUD/QuickBar/RobotBatteryMeter.png
+o HUD/QuickBar/RobotDefensive.png
+o HUD/QuickBar/RobotDefensiveOn.png
+o HUD/QuickBar/RobotFollow.png
+o HUD/QuickBar/RobotFollowOn.png
+o HUD/QuickBar/RobotPassive.png
+o HUD/QuickBar/RobotPassiveOn.png
+o HUD/QuickBar/RobotPower.png
+o HUD/QuickBar/RobotPowerOn.png
+o HUD/QuickBar/RobotSlot.png
+o HUD/QuickBar/RobotSlotOn.png
+o HUD/QuickBar/Slot.png
+o HUD/QuickBar/SlotOn.png
+s HUD/QuickBar/SlotRecast.png 20
+s HUD/QuickBar/SlotRecastOn.png 20
+o HUD/QuickBar/StatusBG.png
+o HUD/QuickBar/XPBar.png
+o HUD/QuickBar/XPBG.png
+o HUD/QuickBar/XPOverlay.png
+o HUD/Tutorial/1.png
+o HUD/Tutorial/2.png
+o HUD/Tutorial/3.png
+o HUD/Tutorial/4.png
+o HUD/Tutorial/5.png
+o HUD/Tutorial/6.png
+o HUD/Tutorial/ButtonExit.png
+o HUD/Tutorial/ButtonFinish.png
+o HUD/Tutorial/ButtonMainMenu.png
+o HUD/Tutorial/ButtonNext.png
+o HUD/Credits/ButtonExit.png
+o HUD/Credits/ButtonMainMenu.png
+o HUD/WeaponInfo/BG.png
+
+//Misc
+o Misc/Bar.png
+o Misc/BarBG.png
+o Misc/ChatBubble.png
+o Misc/Danger.png
+o Misc/LargeInventor.png
+o Misc/NameBG.png
+o Misc/NoPower.png
+o Misc/ProgressBar.gif
+o Misc/ProgressBG.gif
+o Misc/ProgressContainer.png
+
+//Resources
+s Resources/Copper.png 12
+o Resources/Diamond.png
+o Resources/Emerald.png
+s Resources/Gold.png 12
+s Resources/Idol.png 12
+s Resources/Iron.png 12
+o Resources/Plant.png
+s Resources/Platinum.png 12
+o Resources/Ruby.png
+o Resources/Sapphire.png
+s Resources/Silver.png 12
+o Resources/Stone.png
+o Resources/Tulip.png
+o Resources/Wood.png
+o Resources/XPCrystal.png
+
+//Attachments
+o Attachments/Disguise.png
+o Attachments/FireFighterHat.png
+s Attachments/Propeller.png 9
+o Attachments/Riding.png
+o Attachments/RobotCopperArmor.png
+o Attachments/RobotCopperBlade.png
+o Attachments/RobotGoldArmor.png
+o Attachments/RobotGoldBlade.png
+o Attachments/RobotIronArmor.png
+o Attachments/RobotIronBlade.png
+o Attachments/RobotScrapArmor.png
+o Attachments/RobotSilverArmor.png
+o Attachments/RobotSilverBlade.png
+o Attachments/RobotStoneBlade.png
+o Attachments/RobotWoodArmor.png
+o Attachments/ShutterShades.png
+
+//Monsters
+o Monsters/Selected.png
+s Monsters/AggressiveSnake/Attacking.png 2
+o Monsters/AggressiveSnake/Falling.png
+o Monsters/AggressiveSnake/Jumping.png
+o Monsters/AggressiveSnake/Standing.png
+s Monsters/AggressiveSnake/Walking.png 2
+s Monsters/BossOrc/Attacking.png 4
+o Monsters/BossOrc/Falling.png
+o Monsters/BossOrc/Jumping.png
+o Monsters/BossOrc/Standing.png
+s Monsters/BossOrc/Stunned.png 2
+s Monsters/BossOrc/Walking.png 2
+s Monsters/LionFly/Attacking.png 3
+o Monsters/LionFly/Falling.png
+s Monsters/LionFly/Flapping.png 6
+s Monsters/LionFly/Flying.png 6
+o Monsters/LionFly/Jumping.png
+o Monsters/LionFly/Standing.png
+s Monsters/LionFly/Walking.png 5
+s Monsters/Orc/Attacking.png 3
+o Monsters/Orc/Falling.png
+o Monsters/Orc/Jumping.png
+o Monsters/Orc/Standing.png
+s Monsters/Orc/Walking.png 2
+o Monsters/Pig/Falling.png
+o Monsters/Pig/Jumping.png
+o Monsters/Pig/Standing.png
+s Monsters/Pig/Walking.png 2
+s Monsters/Porcupine/Attacking.png 2
+s Monsters/Porcupine/AttackingPissed.png 2
+o Monsters/Porcupine/Falling.png
+o Monsters/Porcupine/FallingPissed.png
+o Monsters/Porcupine/Jumping.png
+o Monsters/Porcupine/JumpingPissed.png
+o Monsters/Porcupine/Standing.png
+o Monsters/Porcupine/StandingPissed.png
+s Monsters/Porcupine/Walking.png 2
+s Monsters/Porcupine/WalkingPissed.png 2
+s Monsters/RedOrc/Attacking.png 3
+o Monsters/RedOrc/Falling.png
+o Monsters/RedOrc/Jumping.png
+o Monsters/RedOrc/Standing.png
+s Monsters/RedOrc/Walking.png 2
+s Monsters/RockMonster/Attacking.png 4
+o Monsters/RockMonster/Falling.png
+o Monsters/RockMonster/Hiding.png
+o Monsters/RockMonster/Jumping.png
+o Monsters/RockMonster/Standing.png
+s Monsters/RockMonster/Walking.png 4
+s Monsters/Snail/Attacking.png 6
+o Monsters/Snail/Falling.png
+o Monsters/Snail/Jumping.png
+o Monsters/Snail/Standing.png
+s Monsters/Snail/Walking.png 6
+s Monsters/Snake/Attacking.png 2
+o Monsters/Snake/Falling.png
+o Monsters/Snake/Jumping.png
+o Monsters/Snake/Standing.png
+s Monsters/Snake/Walking.png 2
+s Monsters/SpiderWorm/Attacking.png 2
+o Monsters/SpiderWorm/Falling.png
+o Monsters/SpiderWorm/Jumping.png
+o Monsters/SpiderWorm/Standing.png
+s Monsters/SpiderWorm/Walking.png 6
+s Monsters/ZombieWalrus/Attacking.png 2
+o Monsters/ZombieWalrus/Falling.png
+o Monsters/ZombieWalrus/Jumping.png
+o Monsters/ZombieWalrus/Standing.png
+s Monsters/ZombieWalrus/Walking.png 2
+
+//Effects
+o Effects/AttackBonus.png
+o Effects/Fear.png
+o Effects/Heal.png
+o Effects/Poison.png
+o Effects/RezSickness.png
+o Effects/Slowed.png
+o Effects/Stun.png
+
+//Items
+o Items/AutoHandCannon.png
+o Items/AutoXBow.png
+o Items/Bacon.png
+o Items/BladeTrap.png
+o Items/BlueBattery.png
+o Items/Book.png
+o Items/BookShelf.png
+o Items/Boomerang.png
+o Items/Bow.png
+o Items/Box.png
+o Items/Bread.png
+o Items/BrokenMirror.png
+o Items/Cabin.png
+o Items/Charcoal.png
+o Items/Chest.png
+o Items/Cloth.png
+o Items/ClothesChest.png
+o Items/ClothesFeet.png
+o Items/ClothesLegs.png
+o Items/Compass.png
+o Items/Copper.png
+o Items/CopperBlade.png
+o Items/CopperBolt.png
+o Items/CopperChest.png
+o Items/CopperFeet.png
+o Items/CopperGear.png
+o Items/CopperHammer.png
+o Items/CopperHead.png
+o Items/CopperLegs.png
+o Items/CopperMine.png
+o Items/CopperPanel.png
+o Items/CopperRod.png
+o Items/CopperSpear.png
+o Items/CopperSword.png
+o Items/CopperTube.png
+o Items/Crate.png
+o Items/CrossBow.png
+o Items/Diamond.png
+o Items/Disguise.png
+o Items/Dye.png
+o Items/EagleBlade.png
+o Items/Emerald.png
+o Items/EmeraldTeleporter.png
+o Items/FanBlade.png
+o Items/Fang.png
+o Items/FangClaw.png
+o Items/FireFighterHat.png
+o Items/FireGland.png
+o Items/FlameCannon.png
+o Items/Flower.png
+o Items/Forge.png
+o Items/Fur.png
+o Items/Gold.png
+o Items/GoldBlade.png
+o Items/GoldBolt.png
+o Items/GoldChest.png
+o Items/GoldFeet.png
+o Items/GoldGear.png
+o Items/GoldHammer.png
+o Items/GoldHead.png
+o Items/GoldLegs.png
+o Items/GoldMine.png
+o Items/GoldPanel.png
+o Items/GoldRod.png
+o Items/GoldSpear.png
+o Items/GoldSword.png
+o Items/GoldTube.png
+o Items/GreenBattery.png
+o Items/GunPowder.png
+o Items/Hair.png
+o Items/HandCannon.png
+o Items/Idol.png
+o Items/Iron.png
+o Items/IronBolt.png
+o Items/IronBlade.png
+o Items/IronChest.png
+o Items/IronFeet.png
+o Items/IronGear.png
+o Items/IronHammer.png
+o Items/IronHead.png
+o Items/IronLegs.png
+o Items/IronMine.png
+o Items/IronPanel.png
+o Items/IronRod.png
+o Items/IronSpear.png
+o Items/IronSword.png
+o Items/IronTube.png
+o Items/ItemContainer.png
+o Items/Katana.png
+o Items/LargeFarm.png
+o Items/LargeSafe.png
+o Items/LargeShell.png
+o Items/Leather.png
+o Items/LionFlyStatue.png
+o Items/MedicKit.png
+o Items/MediumSafe.png
+o Items/MelvinHead.png
+o Items/Needle.png
+o Items/Net.png
+o Items/NinjaHead.png
+o Items/Paper.png
+o Items/Parachute.png
+o Items/Pasture.png
+o Items/Pebble.png
+o Items/Pig.png
+o Items/Platinum.png
+o Items/PlatinumBolt.png
+o Items/PlatinumGear.png
+o Items/PlatinumMine.png
+o Items/PlatinumPanel.png
+o Items/PlatinumRod.png
+o Items/PlatinumTube.png
+o Items/PottedFlower.png
+o Items/Propeller.png
+o Items/Pulley.png
+o Items/Pumpkin.png
+o Items/PumpkinSeed.png
+o Items/RadiumiteBlock.png
+o Items/RadiumiteChest.png
+o Items/RadiumiteFeet.png
+o Items/RadiumiteHead.png
+o Items/RadiumiteLegs.png
+o Items/RadiumiteSword.png
+o Items/ReinforcedCloth.png
+o Items/RobotCopperArmor.png
+o Items/RobotCopperBlade.png
+o Items/RobotGoldArmor.png
+o Items/RobotGoldBlade.png
+o Items/RobotIronArmor.png
+o Items/RobotIronBlade.png
+o Items/RobotSilverArmor.png
+o Items/RobotScrapArmor.png
+o Items/RobotSilverBlade.png
+o Items/RobotStoneBlade.png
+o Items/RobotWoodArmor.png
+o Items/Rope.png
+o Items/Ruby.png
+o Items/RubyTeleporter.png
+o Items/Sapphire.png
+o Items/SapphireTeleporter.png
+o Items/SawBlade.png
+o Items/SawSword.png
+o Items/SawMill.png
+o Items/ScareCrow.png
+o Items/ScrapChest.png
+o Items/ScrapFeet.png
+o Items/ScrapHammer.png
+o Items/ScrapHead.png
+o Items/ScrapLegs.png
+o Items/ShutterShades.png
+o Items/Silk.png
+o Items/Silver.png
+o Items/SilverBlade.png
+o Items/SilverBolt.png
+o Items/SilverChest.png
+o Items/SilverFeet.png
+o Items/SilverGear.png
+o Items/SilverHammer.png
+o Items/SilverHead.png
+o Items/SilverLegs.png
+o Items/SilverMine.png
+o Items/SilverPanel.png
+o Items/SilverRod.png
+o Items/SilverSpear.png
+o Items/SilverSword.png
+o Items/SilverTube.png
+o Items/Skin.png
+o Items/SlingShot.png
+o Items/SmallSafe.png
+o Items/SpringFeet.png
+o Items/Stick.png
+o Items/StoneBlock.png
+o Items/StonePiece.png
+o Items/SmallFarm.png
+o Items/SteamEngine.png
+o Items/Stone.png
+o Items/StoneBlade.png
+o Items/StoneHammer.png
+o Items/StoneMine.png
+o Items/StoneSpear.png
+o Items/StoneSword.png
+o Items/TBHead.png
+o Items/Thorn.png
+o Items/ThornTrap.png
+o Items/TownBlock.png
+o Items/Tulip.png
+o Items/TulipSandwich.png
+o Items/Tusk.png
+o Items/WeaponRack.png
+o Items/Web.png
+o Items/WheatSeed.png
+o Items/WindMill.png
+o Items/Wood.png
+o Items/WoodBlock.png
+o Items/WoodFeet.png
+o Items/WoodChest.png
+o Items/WoodHammer.png
+o Items/WoodHead.png
+o Items/WoodLegs.png
+o Items/WoodPiece.png
+o Items/WorkBench.png
+
+//Armor
+s Armor/Clothes/Chest/Falling.png 4
+s Armor/Clothes/Chest/Gathering.png 4
+o Armor/Clothes/Chest/Jumping.png
+o Armor/Clothes/Chest/Standing.png
+s Armor/Clothes/Chest/Walking.png 2
+s Armor/Clothes/Chest/Swinging.png 6
+s Armor/Clothes/Legs/Falling.png 4
+s Armor/Clothes/Legs/Gathering.png 4
+o Armor/Clothes/Legs/Jumping.png
+o Armor/Clothes/Legs/Standing.png
+s Armor/Clothes/Legs/Walking.png 2
+s Armor/Clothes/Legs/Swinging.png 6
+s Armor/Clothes/Feet/Falling.png 4
+s Armor/Clothes/Feet/Gathering.png 4
+o Armor/Clothes/Feet/Jumping.png
+o Armor/Clothes/Feet/Standing.png
+s Armor/Clothes/Feet/Walking.png 2
+s Armor/Clothes/Feet/Swinging.png 6
+
+s Armor/Gold/Head/Falling.png 4
+s Armor/Gold/Head/Gathering.png 4
+o Armor/Gold/Head/Jumping.png
+o Armor/Gold/Head/Standing.png
+s Armor/Gold/Head/Walking.png 2
+s Armor/Gold/Head/Swinging.png 6
+s Armor/Gold/Chest/Falling.png 4
+s Armor/Gold/Chest/Gathering.png 4
+o Armor/Gold/Chest/Jumping.png
+o Armor/Gold/Chest/Standing.png
+s Armor/Gold/Chest/Walking.png 2
+s Armor/Gold/Chest/Swinging.png 6
+s Armor/Gold/Legs/Falling.png 4
+s Armor/Gold/Legs/Gathering.png 4
+o Armor/Gold/Legs/Jumping.png
+o Armor/Gold/Legs/Standing.png
+s Armor/Gold/Legs/Walking.png 2
+s Armor/Gold/Legs/Swinging.png 6
+s Armor/Gold/Feet/Falling.png 4
+s Armor/Gold/Feet/Gathering.png 4
+o Armor/Gold/Feet/Jumping.png
+o Armor/Gold/Feet/Standing.png
+s Armor/Gold/Feet/Walking.png 2
+s Armor/Gold/Feet/Swinging.png 6
+
+s Armor/Melvin/Head/Falling.png 4
+s Armor/Melvin/Head/Gathering.png 4
+o Armor/Melvin/Head/Jumping.png
+o Armor/Melvin/Head/Standing.png
+s Armor/Melvin/Head/Walking.png 2
+s Armor/Melvin/Head/Swinging.png 6
+
+s Armor/Scrap/Head/Falling.png 4
+s Armor/Scrap/Head/Gathering.png 4
+o Armor/Scrap/Head/Jumping.png
+o Armor/Scrap/Head/Standing.png
+s Armor/Scrap/Head/Walking.png 2
+s Armor/Scrap/Head/Swinging.png 6
+s Armor/Scrap/Chest/Falling.png 4
+s Armor/Scrap/Chest/Gathering.png 4
+o Armor/Scrap/Chest/Jumping.png
+o Armor/Scrap/Chest/Standing.png
+s Armor/Scrap/Chest/Walking.png 2
+s Armor/Scrap/Chest/Swinging.png 6
+s Armor/Scrap/Legs/Falling.png 4
+s Armor/Scrap/Legs/Gathering.png 4
+o Armor/Scrap/Legs/Jumping.png
+o Armor/Scrap/Legs/Standing.png
+s Armor/Scrap/Legs/Walking.png 2
+s Armor/Scrap/Legs/Swinging.png 6
+s Armor/Scrap/Feet/Falling.png 4
+s Armor/Scrap/Feet/Gathering.png 4
+o Armor/Scrap/Feet/Jumping.png
+o Armor/Scrap/Feet/Standing.png
+s Armor/Scrap/Feet/Walking.png 2
+s Armor/Scrap/Feet/Swinging.png 6
+
+s Armor/Spring/Feet/Falling.png 4
+s Armor/Spring/Feet/Gathering.png 4
+o Armor/Spring/Feet/Jumping.png
+o Armor/Spring/Feet/Standing.png
+s Armor/Spring/Feet/Walking.png 2
+s Armor/Spring/Feet/Swinging.png 6
+
+s Armor/Radiumite/Head/Falling.png 4
+s Armor/Radiumite/Head/Gathering.png 4
+o Armor/Radiumite/Head/Jumping.png
+o Armor/Radiumite/Head/Standing.png
+s Armor/Radiumite/Head/Walking.png 2
+s Armor/Radiumite/Head/Swinging.png 6
+s Armor/Radiumite/Chest/Falling.png 4
+s Armor/Radiumite/Chest/Gathering.png 4
+o Armor/Radiumite/Chest/Jumping.png
+o Armor/Radiumite/Chest/Standing.png
+s Armor/Radiumite/Chest/Walking.png 2
+s Armor/Radiumite/Chest/Swinging.png 6
+s Armor/Radiumite/Legs/Falling.png 4
+s Armor/Radiumite/Legs/Gathering.png 4
+o Armor/Radiumite/Legs/Jumping.png
+o Armor/Radiumite/Legs/Standing.png
+s Armor/Radiumite/Legs/Walking.png 2
+s Armor/Radiumite/Legs/Swinging.png 6
+s Armor/Radiumite/Feet/Falling.png 4
+s Armor/Radiumite/Feet/Gathering.png 4
+o Armor/Radiumite/Feet/Jumping.png
+o Armor/Radiumite/Feet/Standing.png
+s Armor/Radiumite/Feet/Walking.png 2
+s Armor/Radiumite/Feet/Swinging.png 6
+
+s Armor/Silver/Head/Falling.png 4
+s Armor/Silver/Head/Gathering.png 4
+o Armor/Silver/Head/Jumping.png
+o Armor/Silver/Head/Standing.png
+s Armor/Silver/Head/Walking.png 2
+s Armor/Silver/Head/Swinging.png 6
+s Armor/Silver/Chest/Falling.png 4
+s Armor/Silver/Chest/Gathering.png 4
+o Armor/Silver/Chest/Jumping.png
+o Armor/Silver/Chest/Standing.png
+s Armor/Silver/Chest/Walking.png 2
+s Armor/Silver/Chest/Swinging.png 6
+s Armor/Silver/Legs/Falling.png 4
+s Armor/Silver/Legs/Gathering.png 4
+o Armor/Silver/Legs/Jumping.png
+o Armor/Silver/Legs/Standing.png
+s Armor/Silver/Legs/Walking.png 2
+s Armor/Silver/Legs/Swinging.png 6
+s Armor/Silver/Feet/Falling.png 4
+s Armor/Silver/Feet/Gathering.png 4
+o Armor/Silver/Feet/Jumping.png
+o Armor/Silver/Feet/Standing.png
+s Armor/Silver/Feet/Walking.png 2
+s Armor/Silver/Feet/Swinging.png 6
+
+s Armor/Iron/Head/Falling.png 4
+s Armor/Iron/Head/Gathering.png 4
+o Armor/Iron/Head/Jumping.png
+o Armor/Iron/Head/Standing.png
+s Armor/Iron/Head/Walking.png 2
+s Armor/Iron/Head/Swinging.png 6
+s Armor/Iron/Chest/Falling.png 4
+s Armor/Iron/Chest/Gathering.png 4
+o Armor/Iron/Chest/Jumping.png
+o Armor/Iron/Chest/Standing.png
+s Armor/Iron/Chest/Walking.png 2
+s Armor/Iron/Chest/Swinging.png 6
+s Armor/Iron/Legs/Falling.png 4
+s Armor/Iron/Legs/Gathering.png 4
+o Armor/Iron/Legs/Jumping.png
+o Armor/Iron/Legs/Standing.png
+s Armor/Iron/Legs/Walking.png 2
+s Armor/Iron/Legs/Swinging.png 6
+s Armor/Iron/Feet/Falling.png 4
+s Armor/Iron/Feet/Gathering.png 4
+o Armor/Iron/Feet/Jumping.png
+o Armor/Iron/Feet/Standing.png
+s Armor/Iron/Feet/Walking.png 2
+s Armor/Iron/Feet/Swinging.png 6
+
+s Armor/Copper/Head/Falling.png 4
+s Armor/Copper/Head/Gathering.png 4
+o Armor/Copper/Head/Jumping.png
+o Armor/Copper/Head/Standing.png
+s Armor/Copper/Head/Walking.png 2
+s Armor/Copper/Head/Swinging.png 6
+s Armor/Copper/Chest/Falling.png 4
+s Armor/Copper/Chest/Gathering.png 4
+o Armor/Copper/Chest/Jumping.png
+o Armor/Copper/Chest/Standing.png
+s Armor/Copper/Chest/Walking.png 2
+s Armor/Copper/Chest/Swinging.png 6
+s Armor/Copper/Legs/Falling.png 4
+s Armor/Copper/Legs/Gathering.png 4
+o Armor/Copper/Legs/Jumping.png
+o Armor/Copper/Legs/Standing.png
+s Armor/Copper/Legs/Walking.png 2
+s Armor/Copper/Legs/Swinging.png 6
+s Armor/Copper/Feet/Falling.png 4
+s Armor/Copper/Feet/Gathering.png 4
+o Armor/Copper/Feet/Jumping.png
+o Armor/Copper/Feet/Standing.png
+s Armor/Copper/Feet/Walking.png 2
+s Armor/Copper/Feet/Swinging.png 6
+
+s Armor/Ninja/Head/Falling.png 4
+s Armor/Ninja/Head/Gathering.png 4
+o Armor/Ninja/Head/Jumping.png
+o Armor/Ninja/Head/Standing.png
+s Armor/Ninja/Head/Walking.png 2
+s Armor/Ninja/Head/Swinging.png 6
+
+s Armor/TB/Head/Falling.png 4
+s Armor/TB/Head/Gathering.png 4
+o Armor/TB/Head/Jumping.png
+o Armor/TB/Head/Standing.png
+s Armor/TB/Head/Walking.png 2
+s Armor/TB/Head/Swinging.png 6
+
+s Armor/Wood/Head/Falling.png 4
+s Armor/Wood/Head/Gathering.png 4
+o Armor/Wood/Head/Jumping.png
+o Armor/Wood/Head/Standing.png
+s Armor/Wood/Head/Walking.png 2
+s Armor/Wood/Head/Swinging.png 6
+s Armor/Wood/Chest/Falling.png 4
+s Armor/Wood/Chest/Gathering.png 4
+o Armor/Wood/Chest/Jumping.png
+o Armor/Wood/Chest/Standing.png
+s Armor/Wood/Chest/Walking.png 2
+s Armor/Wood/Chest/Swinging.png 6
+s Armor/Wood/Legs/Falling.png 4
+s Armor/Wood/Legs/Gathering.png 4
+o Armor/Wood/Legs/Jumping.png
+o Armor/Wood/Legs/Standing.png
+s Armor/Wood/Legs/Walking.png 2
+s Armor/Wood/Legs/Swinging.png 6
+s Armor/Wood/Feet/Falling.png 4
+s Armor/Wood/Feet/Gathering.png 4
+o Armor/Wood/Feet/Jumping.png
+o Armor/Wood/Feet/Standing.png
+s Armor/Wood/Feet/Walking.png 2
+s Armor/Wood/Feet/Swinging.png 6
+
+//Weapons
+s Weapons/AutoHandCannon.png 3
+o Weapons/Bow.png
+o Weapons/CopperBlade.png
+o Weapons/CopperHammer.png
+o Weapons/CopperSpear.png
+o Weapons/CopperSword.png
+o Weapons/CrossBow.png
+o Weapons/EagleBlade.png
+o Weapons/FangClaw.png
+o Weapons/FlameCannon.png
+o Weapons/GoldBlade.png
+o Weapons/GoldHammer.png
+o Weapons/GoldSpear.png
+o Weapons/GoldSword.png
+o Weapons/HandCannon.png
+o Weapons/IronBlade.png
+o Weapons/IronHammer.png
+o Weapons/IronSpear.png
+o Weapons/IronSword.png
+o Weapons/Katana.png
+o Weapons/Net.png
+o Weapons/RadiumiteSword.png
+o Weapons/SawSword.png
+o Weapons/ScrapHammer.png
+o Weapons/SilverBlade.png
+o Weapons/SilverHammer.png
+o Weapons/SilverSpear.png
+o Weapons/SilverSword.png
+o Weapons/SlingShot.png
+o Weapons/Stick.png
+o Weapons/StoneBlade.png
+o Weapons/StoneHammer.png
+o Weapons/StoneSpear.png
+o Weapons/StoneSword.png
+o Weapons/WoodHammer.png
+
+//Particles
+o Particles/Flame1.png
+o Particles/Flame2.png
+o Particles/Flame3.png
+o Particles/Flame4.png
+o Particles/Flame5.png
+o Particles/Flame6.png
+o Particles/Flame7.png
+o Particles/Flame8.png
+
+//Projectiles
+o Projectiles/Arrow.png
+o Projectiles/Boomerang.png
+o Projectiles/Bullet.png
+o Projectiles/FireBall.png
+o Projectiles/Goo.png
+o Projectiles/Pebble.png
+o Projectiles/Web.png
+
+//Placeables - Cursors
+o Placeables/Cursor/AutoXBow Placeables/Cursor/AutoXBow.png 1.0 -1 -1 -1
+o Placeables/Cursor/BladeTrap Placeables/Cursor/BladeTrap.png 1.0 -1 -1 -1
+o Placeables/Cursor/BookShelf Placeables/Cursor/BookShelf.png 1.0 -1 -1 -1
+o Placeables/Cursor/Box Placeables/Cursor/Box.png 1.0 -1 -1 -1
+o Placeables/Cursor/Cabin Placeables/Cursor/Cabin.png 1.0 -1 -1 -1
+o Placeables/Cursor/Chest Placeables/Cursor/Chest.png 1.0 -1 -1 -1
+o Placeables/Cursor/CopperMine Placeables/Cursor/CopperMine.png 1.0 -1 -1 -1
+o Placeables/Cursor/Crate Placeables/Cursor/Crate.png 1.0 -1 -1 -1
+o Placeables/Cursor/Container Placeables/Cursor/ItemContainer.png 1.0 -1 -1 -1
+o Placeables/Cursor/EmeraldTeleporter Placeables/Cursor/EmeraldTeleporter.png 1.0 -1 -1 -1
+o Placeables/Cursor/Forge Placeables/Cursor/Forge.png 1.0 -1 -1 -1
+o Placeables/Cursor/GoldMine Placeables/Cursor/GoldMine.png 1.0 -1 -1 -1
+o Placeables/Cursor/IronMine Placeables/Cursor/IronMine.png 1.0 -1 -1 -1
+o Placeables/Cursor/LargeFarm Placeables/Cursor/LargeFarm.png 1.0 -1 -1 -1
+o Placeables/Cursor/LargeSafe Placeables/Cursor/LargeSafe.png 1.0 -1 -1 -1
+o Placeables/Cursor/LionFlyStatue Placeables/Cursor/LionFlyStatue.png 1.0 -1 -1 -1
+o Placeables/Cursor/MedicKit Placeables/Cursor/MedicKit.png 1.0 -1 -1 -1
+o Placeables/Cursor/MediumSafe Placeables/Cursor/MediumSafe.png 1.0 -1 -1 -1
+o Placeables/Cursor/Pasture Placeables/Cursor/Pasture.png 1.0 -1 -1 -1
+o Placeables/Cursor/PlatinumMine Placeables/Cursor/PlatinumMine.png 1.0 -1 -1 -1
+o Placeables/Cursor/PottedFlower Placeables/Cursor/PottedFlower.png 1.0 -1 -1 -1
+o Placeables/Cursor/RubyTeleporter Placeables/Cursor/RubyTeleporter.png 1.0 -1 -1 -1
+o Placeables/Cursor/SapphireTeleporter Placeables/Cursor/SapphireTeleporter.png 1.0 -1 -1 -1
+o Placeables/Cursor/ScareCrow Placeables/Cursor/ScareCrow.png 1.0 -1 -1 -1
+o Placeables/Cursor/SawMill Placeables/Cursor/SawMill.png 1.0 -1 -1 -1
+o Placeables/Cursor/SilverMine Placeables/Cursor/SilverMine.png 1.0 -1 -1 -1
+o Placeables/Cursor/SmallFarm Placeables/Cursor/SmallFarm.png 1.0 -1 -1 -1
+o Placeables/Cursor/SmallSafe Placeables/Cursor/SmallSafe.png 1.0 -1 -1 -1
+o Placeables/Cursor/SteamEngine Placeables/Cursor/SteamEngine.png 1.0 -1 -1 -1
+o Placeables/Cursor/StoneMine Placeables/Cursor/StoneMine.png 1.0 -1 -1 -1
+o Placeables/Cursor/ThornTrap Placeables/Cursor/ThornTrap.png 1.0 -1 -1 -1
+o Placeables/Cursor/TownBlock Placeables/Cursor/TownBlock.png 1.0 -1 -1 -1
+o Placeables/Cursor/TownHall Placeables/Cursor/TownHall.png 1.0 -1 -1 -1
+o Placeables/Cursor/WeaponRack Placeables/Cursor/WeaponRack.png 1.0 -1 -1 -1
+o Placeables/Cursor/WindMill Placeables/Cursor/WindMill.png 1.0 -1 -1 -1
+o Placeables/Cursor/WorkBench Placeables/Cursor/WorkBench.png 1.0 -1 -1 -1
+
+//Placeables - Placed
+o Placeables/Placed/AutoXBow.png
+s Placeables/Placed/BladeTrap.png 8
+o Placeables/Placed/BookShelf.png
+o Placeables/Placed/Box.png
+o Placeables/Placed/Cabin.png
+o Placeables/Placed/Chest.png
+o Placeables/Placed/CopperMine.png
+o Placeables/Placed/Crate.png
+o Placeables/Placed/Container.png
+s Placeables/Placed/EmeraldTeleporter.png 10
+s Placeables/Placed/Forge.png 7
+o Placeables/Placed/GoldMine.png
+o Placeables/Placed/IronMine.png
+o Placeables/Placed/LargeFarm.png
+o Placeables/Placed/LargeSafe.png
+o Placeables/Placed/LionFlyStatue.png
+o Placeables/Placed/ItemContainer.png
+o Placeables/Placed/MedicKit.png
+o Placeables/Placed/MediumSafe.png
+o Placeables/Placed/Pasture.png
+o Placeables/Placed/PlatinumMine.png
+o Placeables/Placed/PottedFlower.png
+s Placeables/Placed/RubyTeleporter.png 10
+s Placeables/Placed/SapphireTeleporter.png 10
+s Placeables/Placed/SawMill.png 6
+o Placeables/Placed/ScareCrow.png
+o Placeables/Placed/SilverMine.png
+o Placeables/Placed/SmallFarm.png
+o Placeables/Placed/SmallSafe.png
+s Placeables/Placed/SteamEngine.png 6
+o Placeables/Placed/StoneMine.png
+o Placeables/Placed/ThornTrap.png
+s Placeables/Placed/TownHall.png 5
+o Placeables/Placed/WeaponRack.png
+s Placeables/Placed/WindMill.png 4
+o Placeables/Placed/WorkBench.png
+
+//Blocks
+o Blocks/CaveBG01.gif
+o Blocks/CaveBG02.gif
+o Blocks/CaveBG03.gif
+o Blocks/CaveBG04.gif
+o Blocks/CaveBG05.gif
+o Blocks/CaveBG06.gif
+o Blocks/CaveBG07.gif
+o Blocks/CaveBG08.gif
+o Blocks/CaveBG09.gif
+o Blocks/CaveBG10.gif
+o Blocks/CaveBG11.gif
+o Blocks/CaveBG12.gif
+o Blocks/CaveBG13.gif
+o Blocks/CaveBG14.gif
+o Blocks/CaveBG15.gif
+o Blocks/CaveBG16.gif
+o Blocks/CaveBG17.gif
+o Blocks/CaveBG18.gif
+o Blocks/CaveBG19.gif
+o Blocks/CaveBG20.gif
+o Blocks/CaveBG21.gif
+o Blocks/CaveBG22.gif
+o Blocks/CaveBG23.gif
+o Blocks/CaveBG24.gif
+o Blocks/CaveBG25.gif
+o Blocks/CaveBG26.gif
+o Blocks/CaveBG27.gif
+o Blocks/CaveBG28.gif
+o Blocks/CaveBG29.gif
+o Blocks/CaveBG30.gif
+o Blocks/CaveBG31.gif
+o Blocks/CaveBG32.gif
+o Blocks/CaveBG33.gif
+o Blocks/CaveBG34.gif
+o Blocks/CaveBG35.gif
+o Blocks/CaveBG36.gif
+o Blocks/CaveBG37.gif
+o Blocks/CaveBG38.gif
+o Blocks/CaveBG39.gif
+o Blocks/CaveBG40.gif
+o Blocks/CaveBG41.gif
+o Blocks/CaveBG42.gif
+o Blocks/CaveBG43.gif
+o Blocks/CaveBG44.gif
+o Blocks/CaveBG45.gif
+o Blocks/CaveBG46.gif
+o Blocks/CaveBG47.gif
+o Blocks/CaveBG48.gif
+o Blocks/CaveBG49.gif
+o Blocks/CaveBG50.gif
+o Blocks/CaveBG51.gif
+o Blocks/CaveBG52.gif
+o Blocks/CaveBG53.gif
+o Blocks/CaveBG54.gif
+o Blocks/CaveBG55.gif
+o Blocks/CaveBG56.gif
+o Blocks/CaveBG57.gif
+o Blocks/CaveBG58.gif
+o Blocks/CaveBG59.gif
+o Blocks/CaveBG60.gif
+o Blocks/CaveColBot.gif
+o Blocks/CaveColMid.gif
+o Blocks/CaveColTop.gif
+o Blocks/CaveMushroom1.png
+o Blocks/CaveMushroom2.png
+o Blocks/CaveStone1.png
+o Blocks/CaveStone2.png
+o Blocks/CaveStone3.png
+o Blocks/Caveworm.png
+o Blocks/Dirt1.png
+o Blocks/Dirt2.png
+o Blocks/Dirt3.png
+o Blocks/Dirt4.png
+o Blocks/Dirt5.png
+o Blocks/Dirt6.png
+o Blocks/Dirt7.png
+o Blocks/Dirt8.png
+o Blocks/Dirt9.png
+o Blocks/Dirt10.png
+o Blocks/Dirt11.png
+o Blocks/Dirt12.png
+o Blocks/Dirt13.png
+o Blocks/Dirt14.png
+o Blocks/Dirt15.png
+o Blocks/Dirt16.png
+o Blocks/Dirt17.png
+o Blocks/Dirt18.png
+o Blocks/Dirt19.png
+o Blocks/Dirt20.png
+o Blocks/Dirt21.png
+o Blocks/Dirt22.png
+o Blocks/Dirt23.png
+o Blocks/Dirt24.png
+o Blocks/Dirt25.png
+o Blocks/Dirt26.png
+o Blocks/Dirt27.png
+o Blocks/Dirt28.png
+o Blocks/Dirt29.png
+o Blocks/Dirt30.png
+o Blocks/Dirt31.png
+o Blocks/Dirt32.png
+o Blocks/Dirt33.png
+o Blocks/Dirt34.png
+o Blocks/Dirt35.png
+o Blocks/Dirt36.png
+o Blocks/Dirt37.png
+o Blocks/Dirt38.png
+o Blocks/Dirt39.png
+o Blocks/Dirt40.png
+o Blocks/Dirt41.png
+o Blocks/Dirt42.png
+o Blocks/Dirt43.png
+o Blocks/Dirt44.png
+o Blocks/Dirt45.png
+o Blocks/Dirt46.png
+o Blocks/Dirt47.png
+o Blocks/Dirt48.png
+o Blocks/Dirt49.png
+o Blocks/Dirt50.png
+o Blocks/Dirt51.png
+o Blocks/Dirt52.png
+o Blocks/Dirt53.png
+o Blocks/Dirt54.png
+o Blocks/Dirt55.png
+o Blocks/Dirt56.png
+o Blocks/Dirt57.png
+o Blocks/Dirt58.png
+o Blocks/Dirt59.png
+o Blocks/Dirt60.png
+o Blocks/DirtAccent1.png
+o Blocks/DirtAccent2.png
+o Blocks/DirtAccent3.png
+o Blocks/DirtAccent4.png
+o Blocks/DirtAccent5.png
+o Blocks/DirtAccent6.png
+o Blocks/DirtAccent7.png
+o Blocks/DirtAccent8.png
+o Blocks/DirtAccent9.png
+o Blocks/DirtAccent10.png
+o Blocks/DungeonCrack1.png
+o Blocks/DungeonCrack2.png
+o Blocks/DungeonCrack3.png
+o Blocks/DungeonCrack4.png
+o Blocks/DungeonCrack5.png
+o Blocks/Grass1.png
+o Blocks/Grass2.png
+o Blocks/Grass3.png
+o Blocks/Grass4.png
+o Blocks/Grass5.png
+o Blocks/Grass6.png
+o Blocks/Grass7.png
+o Blocks/Grass8.png
+o Blocks/Grass9.png
+o Blocks/Grass10.png
+o Blocks/Mud1.png
+o Blocks/Mud2.png
+o Blocks/Mud3.png
+o Blocks/Mud4.png
+o Blocks/Mud5.png
+o Blocks/Mud6.png
+o Blocks/Mud7.png
+o Blocks/Mud8.png
+o Blocks/Mud9.png
+o Blocks/Mud10.png
+o Blocks/Sand1.png
+o Blocks/Sand2.png
+o Blocks/Sand3.png
+o Blocks/Sand4.png
+o Blocks/Sand5.png
+o Blocks/Sand6.png
+o Blocks/Sand7.png
+o Blocks/Sand8.png
+o Blocks/Sand9.png
+o Blocks/Sand10.png
+o Blocks/Stone1.png
+o Blocks/Stone2.png
+o Blocks/Stone3.png
+o Blocks/Stone4.png
+o Blocks/Stone5.png
+o Blocks/Stone6.png
+o Blocks/Stone7.png
+o Blocks/Stone8.png
+o Blocks/Stone9.png
+o Blocks/Stone10.png
+o Blocks/Stone11.png
+o Blocks/Stone12.png
+o Blocks/Stone13.png
+o Blocks/Stone14.png
+o Blocks/Stone15.png
+o Blocks/Stone16.png
+o Blocks/Stone17.png
+o Blocks/Stone18.png
+o Blocks/Stone19.png
+o Blocks/Stone20.png
+o Blocks/Stone21.png
+o Blocks/Stone22.png
+o Blocks/Stone23.png
+o Blocks/Stone24.png
+o Blocks/Stone25.png
+o Blocks/Stone26.png
+o Blocks/Stone27.png
+o Blocks/Stone28.png
+o Blocks/Stone29.png
+o Blocks/Stone30.png
+o Blocks/Stone31.png
+o Blocks/Stone32.png
+o Blocks/Stone33.png
+o Blocks/Stone34.png
+o Blocks/Stone35.png
+o Blocks/Stone36.png
+o Blocks/Stone37.png
+o Blocks/Stone38.png
+o Blocks/Stone39.png
+o Blocks/Stone40.png
+o Blocks/Stone41.png
+o Blocks/Stone42.png
+o Blocks/Stone43.png
+o Blocks/Stone44.png
+o Blocks/Stone45.png
+o Blocks/Stone46.png
+o Blocks/Stone47.png
+o Blocks/Stone48.png
+o Blocks/Stone49.png
+o Blocks/Stone50.png
+o Blocks/Stone51.png
+o Blocks/Stone52.png
+o Blocks/Stone53.png
+o Blocks/Stone54.png
+o Blocks/Stone55.png
+o Blocks/Stone56.png
+o Blocks/Stone57.png
+o Blocks/Stone58.png
+o Blocks/Stone59.png
+o Blocks/Stone60.png
+o Blocks/StoneAccent1.png
+o Blocks/StoneAccent2.png
+o Blocks/StoneAccent3.png
+o Blocks/StoneAccent4.png
+o Blocks/StoneAccent5.png
+o Blocks/StoneAccent6.png
+o Blocks/StoneAccent7.png
+o Blocks/StoneAccent8.png
+o Blocks/StoneAccent9.png
+o Blocks/StoneAccent10.png
+o Blocks/StoneFloor1.png
+o Blocks/StoneFloor2.png
+o Blocks/StoneFloor3.png
+o Blocks/StoneFloor4.png
+o Blocks/StoneFloor5.png
+o Blocks/StoneFloor6.png
+o Blocks/StoneFloor7.png
+o Blocks/StoneFloor8.png
+o Blocks/StoneFloor9.png
+o Blocks/StoneFloor10.png
+o Blocks/Town1.png
+o Blocks/Town2.png
+o Blocks/Town3.png
+o Blocks/Town4.png
+o Blocks/Town5.png
+o Blocks/Town6.png
+o Blocks/Town7.png
+o Blocks/Town8.png
+o Blocks/Town9.png
+o Blocks/Town10.png

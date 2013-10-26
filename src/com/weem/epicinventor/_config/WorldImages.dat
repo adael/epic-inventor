@@ -1,0 +1,47 @@
+Theme1/tile_001.png
+Theme1/tile_002.png
+Theme1/tile_003.png
+Theme1/tile_004.png
+Theme1/tile_005.png
+Theme1/tile_006.png
+Theme1/tile_007.png
+Theme1/tile_008.png
+Theme1/tile_009.png
+Theme1/tile_010.png
+Theme1/tile_011.png
+Theme1/tile_012.png
+Theme1/tile_013.png
+Theme1/tile_014.png
+Theme1/tile_015.png
+Theme1/tile_016.png
+Theme1/tile_017.png
+Theme1/tile_018.png
+Theme1/tile_019.png
+Theme1/tile_020.png
+Theme1/tile_021.png
+Theme1/tile_022.png
+Theme1/tile_023.png
+Theme1/tile_024.png
+Theme1/tile_025.png
+Theme1/tile_026.png
+Theme1/tile_027.png
+
+//<type> <id> <color>
+group CaveBG 000000
+group StoneFloor CCCCCC
+blockType CaveMushroom1 f6dfc8
+blockType CaveMushroom2 f6dfc9
+blockType CaveColBot 999777
+blockType CaveColMid 999888
+blockType CaveColTop 999999
+blockType Caveworm dba7a7
+blockType CaveStone1 c8c8c8
+blockType CaveStone2 c8c8c9
+blockType CaveStone3 c8c8c7
+blockType DungeonCrack1 ff7a00
+blockType DungeonCrack2 ffae00
+blockType DungeonCrack3 ff7a11
+blockType DungeonCrack4 ffae11
+blockType DungeonCrack5 ff7a22
+
+//<type> <id> <color> <level>

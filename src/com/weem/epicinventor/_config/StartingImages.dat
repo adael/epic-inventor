@@ -1,0 +1,95 @@
+//HUD
+o HUD/Common/Donate.png
+o HUD/Common/Help.png
+o HUD/AreYouSure/BG.png
+o HUD/AreYouSure/No.png
+o HUD/AreYouSure/Yes.png
+o HUD/ScreenCharacterSelection/BG.jpg
+o HUD/ScreenCharacterSelection/BGText.png
+o HUD/ScreenCharacterSelection/ButtonBack.png
+o HUD/ScreenCharacterSelection/ButtonContinue.png
+o HUD/ScreenCharacterSelection/ButtonDelete.png
+o HUD/ScreenCharacterSelection/ButtonNew.png
+o HUD/ScreenCharacterSelection/Exit.png
+o HUD/ScreenCharacterSelection/TitleCharacterSelection.jpg
+o HUD/ScreenCredits/BG.jpg
+o HUD/ScreenCredits/ButtonBack.png
+o HUD/ScreenCredits/Exit.png
+o HUD/ScreenCredits/TitleCredits.jpg
+o HUD/ScreenLoading/BG.jpg
+o HUD/ScreenKeys/BG.jpg
+o HUD/ScreenMain/BG.jpg
+o HUD/ScreenMain/ButtonCredits.png
+o HUD/ScreenMain/ButtonExit.png
+o HUD/ScreenMain/ButtonMultiPlayer.png
+o HUD/ScreenMain/ButtonMultiPlayerConstruction.png
+o HUD/ScreenMain/ButtonMultiPlayerOff.png
+o HUD/ScreenMain/ButtonSettings.png
+o HUD/ScreenMain/ButtonSinglePlayer.png
+o HUD/ScreenMain/Exit.png
+o HUD/ScreenMain/NewVersion.png
+o HUD/ScreenMultiPlayer/BG.jpg
+o HUD/ScreenMultiPlayer/ButtonBack.png
+o HUD/ScreenMultiPlayer/ButtonHost.png
+o HUD/ScreenMultiPlayer/ButtonJoin.png
+o HUD/ScreenMultiPlayerHost/BG.jpg
+o HUD/ScreenMultiPlayerHost/BGText.png
+o HUD/ScreenMultiPlayerHost/ButtonBack.png
+o HUD/ScreenMultiPlayerHost/ButtonCreate.png
+o HUD/ScreenMultiPlayerJoin/BG.jpg
+o HUD/ScreenMultiPlayerJoin/BGText.png
+o HUD/ScreenMultiPlayerJoin/ButtonBack.png
+o HUD/ScreenMultiPlayerJoin/ButtonJoin.png
+o HUD/ScreenNewCharacter/BG.jpg
+o HUD/ScreenNewCharacter/BGText.png
+o HUD/ScreenNewCharacter/ButtonBack.png
+o HUD/ScreenNewCharacter/ButtonCreate.png
+o HUD/ScreenNewCharacter/Exit.png
+o HUD/ScreenNewCharacter/LabelCharacterName.png
+o HUD/ScreenNewCharacter/LabelRobotName.png
+o HUD/ScreenNewCharacter/TitleNewCharacter.jpg
+o HUD/ScreenSettings/BG.jpg
+o HUD/ScreenSettings/BGResolution.png
+o HUD/ScreenSettings/ButtonArrowLeft.png
+o HUD/ScreenSettings/ButtonArrowRight.png
+o HUD/ScreenSettings/ButtonKeys.png
+o HUD/ScreenSettings/ButtonSave.png
+o HUD/ScreenSettings/Exit.png
+o HUD/ScreenSettings/JDK.png
+o HUD/ScreenSettings/LabelMusicVolume.png
+o HUD/ScreenSettings/LabelResolution.png
+o HUD/ScreenSettings/LabelSoundFXVolume.png
+o HUD/ScreenSettings/TitleSettings.jpg
+o HUD/Version/BG.png
+o HUD/Version/Submit.png
+
+//Player
+s Player/Falling.png 4
+s Player/Gathering.png 4
+o Player/Jumping.png
+o Player/Standing.png
+o Player/Spring.png
+s Player/Swinging.png 6
+s Player/Walking.png 2
+o Player/Parachute.png
+
+//Robot
+s Robot/Bashing.png 6
+o Robot/Falling.png
+o Robot/Jumping.png
+o Robot/Shield.png
+s Robot/Shooting.png 6
+s Robot/Standing.png 6
+s Robot/Swinging.png 6
+s Robot/Walking.png 6
+
+//Background
+o Background/Cloud1.png
+o Background/Cloud2.png
+o Background/Cloud3.png
+o Background/Cloud4.png
+o Background/Cloud5.png
+o Background/Mountain1.png
+o Background/Mountain2.png
+o Background/Tree1.png
+o Background/Tree2.png

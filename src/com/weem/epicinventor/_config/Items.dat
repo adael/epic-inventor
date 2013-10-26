@@ -1,0 +1,229 @@
+//<name> <create qty> <max stack> <category> <type> <tech lvl> <item1> <item1 qty> <item2> <item2 qty> <item3> <item3 qty> <item4> <item4 qty> <skill1> <skill2> <workbench> <xp multiplier> <description>
+
+//Resources
+Copper 1 50 None None 0 None 0 None 0 None 0 None 0 None None None 0.15 Copper: The lowest grade metal - used in crafting
+Diamond 1 5 None None 0 None 0 None 0 None 0 None 0 None None None 1.0 Diamond: Highest grade gem - used in crafting
+Emerald 1 5 None None 0 None 0 None 0 None 0 None 0 None None None 0.25 Emerald: Low grade gem, better than Sapphire - used in crafting (can be mined or uncommonly dropped from Green Orcs)
+Gold 1 50 None None 0 None 0 None 0 None 0 None 0 None None None 0.50 Gold: High grade metal, better than Silver - used in crafting
+Idol 1 20 None None 0 None 0 None 0 None 0 None 0 None None None 0.25 Idol: An idol crafted by a lost civilization... made recently...
+Iron 1 50 None None 0 None 0 None 0 None 0 None 0 None None None 0.20 Iron: Low grade metal, better than Copper - used in crafting
+Plant 1 1 None None 0 None 0 None 0 None 0 None 0 None None None 0.0 Plant: Used in many items when crafting
+Pig 1 1 None Animal 0 None 0 None 0 None 0 None 0 None None None 0.05 Pig: Once collected, click anywhere on the screen while the pig is selected to let it go
+Platinum 1 10 None None 0 None 0 None 0 None 0 None 0 None None None 1.0 Platinum: Highest grade metal, better than Gold - used in crafting
+Ruby 1 5 None None 0 None 0 None 0 None 0 None 0 None None None 0.25 Ruby: Middle grade gem, better than Emerald - used in crafting (can be mined or uncommonly dropped from Red Orcs)
+Sapphire 1 5 None None 0 None 0 None 0 None 0 None 0 None None None 0.25 Sapphire: Lowest grade gem - used in crafting (can be mined or uncommonly dropped from Spider Worms)
+Silver 1 50 None None 0 None 0 None 0 None 0 None 0 None None None 0.25 Silver: Middle grade metal, better than Iron - used in crafting
+Stone 1 100 None None 0 None 0 None 0 None 0 None 0 None None None 0.10 Stone: Used in many items when crafting
+Tulip 1 1 None None 0 None 0 None 0 None 0 None 0 None None None 1.0 Tulip: Used in food preparation
+Wood 1 100 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Wood: Used in many items when crafting
+
+//Placeables
+AutoXBow 1 1 Placeable Combat 1 CrossBow 1 WoodBlock 2 SilverBolt 20 None 0 Woodwork1 None WorkBench 8.0 Auto X Bow: Fires at nearby enemies
+BladeTrap 1 1 Placeable Combat 1 SawBlade 2 WoodBlock 2 Pulley 1 None 0 Metalwork1 None WorkBench 6.0 Blade Trap: Slices enemies that walk on it
+BookShelf 1 1 Placeable Development 1 WoodBlock 3 Book 5 None 0 None 0 Metalwork1 None WorkBench 4.0 Bookshelf: Holds all your books
+Box 1 1 Placeable Development 1 WoodBlock 1 None 0 None 0 None 0 Woodwork1 None WorkBench 2.0 Box: Stores a few items
+Cabin 1 1 Placeable Development 1 WoodBlock 4 None 0 None 0 None 0 Woodwork1 None None 3.5 Cabin: The cabin, when placed, becomes your respawn point
+Chest 1 1 None None 0 None 0 None 0 None 0 None 0 None None None 0.0 Chest: Stores a lot of items
+CopperMine 1 1 Placeable Development 1 Copper 30 WoodBlock 1 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Copper Mine: This mine produces Copper automatically for you (slowly)
+Crate 1 1 Placeable Development 1 WoodBlock 2 None 0 None 0 None 0 Woodwork1 None WorkBench 3.0 Crate: Stores a few more items than the box
+EmeraldTeleporter 1 1 Placeable Development 1 Emerald 3 Platinum 1 None 0 None 0 None None Forge 12 Emerald Teleporter: This portal will send you to another Emerald Teleporter
+Forge 1 1 Placeable Development 1 StoneBlock 2 None 0 None 0 None 0 Woodwork1 None None 1.0 Forge: This placeable is required to craft various items
+GoldMine 1 1 Placeable Development 1 Gold 15 WoodBlock 1 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Gold Mine: This mine produces Gold automatically for you (slowly)
+IronMine 1 1 Placeable Development 1 Iron 15 WoodBlock 1 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Iron Mine: This mine produces Iron automatically for you (slowly)
+LargeFarm 1 1 Placeable Development 1 WoodBlock 2 None 0 None 0 None 0 Metalwork1 None WorkBench 2.0 Large Farm: Insert seeds, receive produce!
+LargeSafe 1 1 Placeable Development 1 IronPanel 10 IronGear 1 None 0 None 0 Woodwork1 None Forge 4.0 Large Safe: Storage container with 15 slots
+LionFlyStatue 1 1 Placeable Development 1 GoldPanel 10 StoneBlock 1 None 0 None 0 Metalwork1 None Forge 4.0 LionFly Statue: All hail the LionFly
+MedicKit 1 1 Placeable Development 1 WoodBlock 4 Cloth 5 Flower 10 None 0 Metalwork1 None WorkBench 3.0 Medic Kit: Increases your HP regeneration rate while you are in range
+MediumSafe 1 1 Placeable Development 1 IronPanel 6 IronGear 1 None 0 None 0 Woodwork1 None Forge 3.0 Medium Safe: Storage container with 10 slots
+Pasture 1 1 Placeable Development 1 WoodBlock 3 WheatSeed 5 None 0 None 0 Metalwork1 None WorkBench 1.0 Pasture: Keeps animals contained and allows them to breed
+PlatinumMine 1 1 Placeable Development 1 Platinum 5 WoodBlock 2 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Platinum Mine: This mine produces Platinum automatically for you (slowly)
+PottedFlower 1 1 Placeable Development 1 Wood 5 Flower 1 None 0 None 0 Woodwork1 None WorkBench 0.25 Potted Flower: It looks nice! Yea, that's about it. 
+RubyTeleporter 1 1 Placeable Development 1 Ruby 3 Platinum 1 None 0 None 0 None None Forge 12 Ruby Teleporter: This portal will send you to another Ruby Teleporter
+SapphireTeleporter 1 1 Placeable Development 1 Sapphire 3 Platinum 1 None 0 None 0 None None Forge 12 Sapphire Teleporter: This portal will send you to another Sapphire Teleporter
+SawMill 1 1 Placeable Development 1 SawBlade 1 WoodBlock 3 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Saw Mill: This sawmill produces Wood automatically for you (slowly)
+ScareCrow 1 1 Placeable Combat 1 Pumpkin 1 WoodBlock 3 Cloth 3 None 0 Metalwork1 None WorkBench 6.0 Scarecrow: Really?  That's how you're going to keep enemies out of your base?
+SilverMine 1 1 Placeable Development 1 Silver 17 WoodBlock 1 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Silver Mine: This mine produces Silver automatically for you (slowly)
+SmallFarm 1 1 Placeable Development 1 WoodBlock 1 None 0 None 0 None 0 Metalwork1 None WorkBench 1.0 Small Farm: Insert seeds, receive produce!
+SmallSafe 1 1 Placeable Development 1 IronPanel 4 IronGear 1 None 0 None 0 Woodwork1 None Forge 2.0 Small Safe: Storage container with 5 slots
+SteamEngine 1 1 Placeable Development 1 CopperTube 10 CopperPanel 10 CopperBolt 20 None 0 Metalwork1 None Forge 7.5 Steam Engine: Power source for placeables that need power
+StoneMine 1 1 Placeable Development 1 Stone 30 WoodBlock 1 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Stone Mine: This mine produces Stone automatically for you (slowly)
+TownBlock 1 20 Placeable Development 1 Stone 5 None 0 None 0 None 0 None None None 0.25 Town Block: Use these to add more space to, or start a new town!
+ThornTrap 1 1 Placeable Combat 1 Thorn 8 WoodPiece 3 None 0 None 0 Metalwork1 None WorkBench 1.0 Thorn Trap: Pokes and cuts enemies that walk on it
+WeaponRack 1 1 Placeable Combat 1 WoodBlock 3 CopperSpear 1 IronHammer 1 None 0 Metalwork1 None WorkBench 7.5 Weapon Rack: Increases your damage output while you are in range
+WindMill 1 1 Placeable Development 1 WoodBlock 2 FanBlade 1 Pulley 1 None 0 Metalwork1 None WorkBench 4.0 Wind Mill: Power source for placeables that need power
+WorkBench 1 1 Placeable Development 1 WoodBlock 2 None 0 None 0 None 0 Woodwork1 None None 0.50 Work Bench: This placeable is required to craft various items
+
+
+//Attachments
+BlueBattery 1 1 Attachment Development 1 SilverTube 1 Sapphire 2 None 0 None 0 Woodwork1 None WorkBench 3.0 Blue Battery: 50% more battery capacity for your robot
+Disguise 1 1 Attachment Development 1 Tusk 1 Hair 1 WoodPiece 1 None 0 Woodwork1 None WorkBench 0.10 Disguise: No one will know who you are
+FireFighterHat 1 1 Attachment Development 1 LargeShell 1 Dye 4 None 0 None 0 Woodwork1 None None 0.10 Fighter Hat: I never joke about safety
+GreenBattery 1 1 Attachment Development 1 SilverTube 1 Emerald 2 None 0 None 0 Woodwork1 None WorkBench 3.0 Green Battery: Robot recharges more quickly while dismissed
+Propeller 1 1 Attachment Development 1 FanBlade 1 SilverGear 1 None 0 None 0 Woodwork1 None WorkBench 6.0 Propeller Attachment: Allows you to fly your Robot
+RobotCopperArmor 1 1 Attachment Development 1 CopperPanel 6 CopperBolt 6 None 0 None 0 Woodwork1 None Forge 2.0 Copper Armor Attachment: Low grade Robot armor, better than Wood
+RobotCopperBlade 1 1 Attachment Development 1 CopperPanel 1 None 0 None 0 None 0 Woodwork1 None Forge 0.50 Copper Blade Attachment: Low grade Melee weapon for your Robot
+RobotGoldArmor 1 1 Attachment Development 1 GoldPanel 6 GoldBolt 6 None 0 None 0 Woodwork1 None Forge 5.0 Gold  Armor Attachment: High grade Robot armor, better than Silver
+RobotGoldBlade 1 1 Attachment Development 1 GoldPanel 1 None 0 None 0 None 0 Woodwork1 None Forge 0.50 Gold Blade Attachment: High grade Melee weapon for your Robot
+RobotIronArmor 1 1 Attachment Development 1 IronPanel 6 IronBolt 6 None 0 None 0 Woodwork1 None Forge 3.0 Iron  Armor Attachment: Middle grade Robot armor, better than Copper
+RobotIronBlade 1 1 Attachment Development 1 IronPanel 1 None 0 None 0 None 0 Woodwork1 None Forge 0.50 Iron Blade Attachment: Middle grade Melee weapon for your Robot
+RobotScrapArmor 1 1 Attachment Development 1 GoldChest 1 SilverChest 1 IronChest 1 None 0 Woodwork1 None Forge 6.0 Scrap  Armor Attachment: Very High grade Robot armor, better than Gold
+RobotSilverArmor 1 1 Attachment Development 1 SilverPanel 6 SilverBolt 6 None 0 None 0 Woodwork1 None Forge 4.0 Silver  Armor Attachment: Middle grade Robot armor, better than Iron
+RobotSilverBlade 1 1 Attachment Development 1 SilverPanel 1 None 0 None 0 None 0 Woodwork1 None Forge 0.50 Silver Blade Attachment: Middle grade Melee weapon for your Robot
+RobotStoneBlade 1 1 Attachment Development 1 StoneBlock 1 None 0 None 0 None 0 Woodwork1 None WorkBench 0.50 Stone Blade Attachment: Low grade Melee weapon for your Robot
+RobotWoodArmor 1 1 Attachment Development 1 WoodBlock 3 WoodPiece 4 None 0 None 0 Woodwork1 None WorkBench 1.0 Wood  Armor Attachment: Lowest grade Robot armor, better than being naked
+ShutterShades 1 1 Attachment Development 1 Tusk 2 None 0 None 0 None 0 Woodwork1 None WorkBench 0.10 Shutter Shades Attachment: Rockin the shades
+
+
+//Drops
+Bacon 1 10 None Consumable 0 None 0 None 0 None 0 None 0 None None None 0.05 Bacon: Eating this will heal you
+Bread 1 50 None Consumable 0 None 0 None 0 None 0 None 0 None None None 0.10 Bread: Eating this will heal you
+Fang 1 50 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Fang: They are sharp
+FireGland 1 20 None None 0 None 0 None 0 None 0 None 0 None None None 0.10 Fire Gland: Used in crafting to make flame-related weapons (rare drop from Red Orcs)
+Flower 1 75 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Flower: Used in crafting
+Fur 1 20 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Fur: It's fuzzy
+Hair 1 50 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Hair: Good for a disguise
+LargeShell 1 2 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Large Shell: Used in crafting
+Needle 1 100 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Needle: Used in crafting
+Pebble 1 100 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Pebble: Used in crafting
+Pumpkin 1 3 None Consumable 0 None 0 None 0 None 0 None 0 None None None 0.10 Pumpkin: Used in crafting, and eating it will heal you
+PumpkinSeed 1 100 None Seed 0 None 0 None 0 None 0 None 0 None None None 0.05 Pumpkin Seed: Plant this in a Farm to produce a Pumpkin
+Silk 1 20 Item Other 1 Web 2 None 0 None 0 None 0 None None None 0.05 Silk: Used in crafting
+Skin 1 10 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Skin: Used to make Leather
+Thorn 1 20 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Thorn: Used in crafting
+Tusk 1 10 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Tusk: Used in crafting
+Web 1 20 None None 0 None 0 None 0 None 0 None 0 None None None 0.05 Web: Used to make Silk
+WheatSeed 1 100 None Seed 0 None 0 None 0 None 0 None 0 None None None 0.10 Wheat Seed: Plant this in a Farm to produce Bread
+
+
+//Primary Components
+CopperBolt 10 50 Item Other 1 Copper 1 None 0 None 0 None 0 None None None 0.10 Copper Bolt: Hold things together
+CopperGear 4 20 Item Other 1 Copper 1 None 0 None 0 None 0 None None None 0.10 Copper Gear: Turn things
+CopperPanel 1 10 Item Other 1 Copper 2 None 0 None 0 None 0 None None None 0.20 Copper Panel: Large and flat. So many uses!
+CopperRod 1 5 Item Other 1 Copper 1 None 0 None 0 None 0 None None None 0.10 Copper Rod: A solid length of metal
+CopperTube 3 10 Item Other 1 Copper 1 None 0 None 0 None 0 None None None 0.10 Copper Tube: You can look down through this!
+GoldBolt 10 50 Item Other 1 Gold 1 None 0 None 0 None 0 None None None 0.25 Gold Bolt: Hold things together
+GoldGear 4 20 Item Other 1 Gold 1 None 0 None 0 None 0 None None None 0.25 Gold Gear: Turn things
+GoldPanel 1 10 Item Other 1 Gold 2 None 0 None 0 None 0 None None None 0.50 Gold Panel: Large and flat. So many uses!
+GoldRod 1 5 Item Other 1 Gold 1 None 0 None 0 None 0 None None None 0.25 Gold Rod: A solid length of metal
+GoldTube 3 10 Item Other 1 Gold 1 None 0 None 0 None 0 None None None 0.25 Gold Tube: You can look down through this!
+IronBolt 10 50 Item Other 1 Iron 1 None 0 None 0 None 0 None None None 0.15 Iron Bolt: Hold things together
+IronGear 4 20 Item Other 1 Iron 1 None 0 None 0 None 0 None None None 0.15 Iron Gear: Turn things
+IronPanel 1 10 Item Other 1 Iron 2 None 0 None 0 None 0 None None None 0.30 Iron Panel: Large and flat. So many uses!
+IronRod 1 5 Item Other 1 Iron 1 None 0 None 0 None 0 None None None 0.15 Iron Rod: A solid length of metal
+IronTube 3 10 Item Other 1 Iron 1 None 0 None 0 None 0 None None None 0.15 Iron Tube: You can look down through this!
+PlatinumBolt 10 5000 Item Other 1 Platinum 1 None 0 None 0 None 0 None None None 0.50 Platinum Bolt: Hold things together
+PlatinumGear 4 20 Item Other 1 Platinum 1 None 0 None 0 None 0 None None None 0.50 Platinum Gear: Turn things
+PlatinumPanel 1 10 Item Other 1 Platinum 2 None 0 None 0 None 0 None None None 1.00 Platinum Panel: Large and flat. So many uses!
+PlatinumRod 1 5 Item Other 1 Platinum 1 None 0 None 0 None 0 None None None 0.50 Platinum Rod: A solid length of metal
+PlatinumTube 3 10 Item Other 1 Platinum 1 None 0 None 0 None 0 None None None 0.50 Platinum Tube: You can look down through this!
+RadiumiteBlock 1 50 Item Other 1 Ruby 1 Sapphire 1 Emerald 1 None 0 None None Forge 0.50 Radiumite Block: Used to craft high level weapons and armor
+SilverBolt 10 50 Item Other 1 Silver 1 None 0 None 0 None 0 None None None 0.20 Silver Bolt: Hold things together
+SilverGear 4 20 Item Other 1 Silver 1 None 0 None 0 None 0 None None None 0.20 Silver Gear: Turn things
+SilverPanel 1 10 Item Other 1 Silver 2 None 0 None 0 None 0 None None None 0.40 Silver Panel: Large and flat. So many uses!
+SilverRod 1 5 Item Other 1 Silver 1 None 0 None 0 None 0 None None None 0.20 Silver Rod: A solid length of metal
+SilverTube 3 10 Item Other 1 Silver 1 None 0 None 0 None 0 None None None 0.20 Silver Tube: You can look down through this!
+StoneBlock 1 50 Item Other 1 Stone 10 None 0 None 0 None 0 None None None 0.50 Stone Block: Chunk o' Stone
+StonePiece 2 100 Item Other 1 Stone 1 None 0 None 0 None 0 None None None 0.05 Stone Piece: Bigger than a pebble, smaller than a planet
+TulipSandwich 1 5 Item Consumable 1 Tulip 1 Bread 2 None 0 None 0 None None None 0.20 Tulip Sandwich: Hmm... Melvin may be looking for this...
+WoodBlock 1 50 Item Other 1 Wood 10 None 0 None 0 None 0 None None None 0.50 Wood Block: You didn't even have to punch a tree!
+WoodPiece 2 100 Item Other 1 Wood 1 None 0 None 0 None 0 None None None 0.05 Wood Piece: Bigger than a sliver, smaller than a sapling
+
+
+
+//Secondary Components
+Book 1 25 Item Other 1 Paper 10 None 0 None 0 None 0 None None None 0.05 Book: A wealth of knowledge at your fingertips
+Charcoal 1 25 Item Other 1 Wood 2 None 0 None 0 None 0 None None Forge 0.10 Charcoal: Used in crafting
+Cloth 1 25 Item Other 1 Silk 2 None 0 None 0 None 0 None None None 0.10 Cloth: Used in crafting
+Dye 1 10 Item Other 1 Flower 3 None 0 None 0 None 0 None None None 0.15 Dye: One Dye, all colors - used in crafting
+FanBlade 1 1 Item Other 1 WoodBlock 1 WoodPiece 4 None 0 None 0 None None None 0.75 FanBlade: Used in crafting
+GunPowder 1 10 Item Other 1 Ruby 3 Charcoal 5 None 0 None 0 None None None 2.0 Gunpowder: Used in crafting
+Leather 1 25 Item Other 1 Skin 2 None 0 None 0 None 0 None None None 0.10 Leather: Used in crafting
+Paper 1 25 Item Other 1 Wood 1 None 0 None 0 None 0 None None None 0.05 Paper: Used in crafting
+Pulley 1 1 Item Other 1 WoodBlock 1 IronTube 1 None 0 None 0 None None None 1.0 Pulley: Used in crafting
+Rope 1 5 Item Other 1 Silk 5 None 0 None 0 None 0 None None None 0.50 Rope: Used in crafting
+SawBlade 1 1 Item Other 1 IronPanel 2 None 0 None 0 None 0 None None None 1.0 Saw Blade: Used in crafting
+
+
+//Armor
+ClothesChest 1 1 Item Armor 1 Cloth 5 None 0 None 0 None 0 Woodwork1 None None 0.50 Standard Shirt: Just a shirt
+ClothesFeet 1 1 Item Armor 1 Cloth 2 None 0 None 0 None 0 Woodwork1 None None 0.20 Standard Shoes: Standard shoes
+ClothesLegs 1 1 Item Armor 1 Cloth 4 None 0 None 0 None 0 Woodwork1 None None 0.40 Standard Legs: Regular old pants
+CopperChest 1 1 Item Armor 1 CopperPanel 6 CopperBolt 6 None 0 None 0 Woodwork1 None Forge 2.0 Copper Chest: Low grade armor, better than Wood
+CopperFeet 1 1 Item Armor 1 CopperPanel 3 CopperBolt 2 None 0 None 0 Woodwork1 None Forge 1.0 Copper Boots: Low grade armor, better than Wood
+CopperHead 1 1 Item Armor 1 CopperPanel 3 CopperBolt 2 None 0 None 0 Woodwork1 None Forge 0.50 Copper Helmet: Low grade armor, better than Wood
+CopperLegs 1 1 Item Armor 1 CopperPanel 4 CopperBolt 4 None 0 None 0 Woodwork1 None Forge 1.50 Copper Legs: Low grade armor, better than Wood
+GoldChest 1 1 Item Armor 1 GoldPanel 6 GoldBolt 6 None 0 None 0 Woodwork1 None Forge 5.0 Gold Chest: High grade armor, better than Silver
+GoldFeet 1 1 Item Armor 1 GoldPanel 3 GoldBolt 2 None 0 None 0 Woodwork1 None Forge 2.5 Gold Boots: High grade armor, better than Silver
+GoldHead 1 1 Item Armor 1 GoldPanel 3 GoldBolt 2 None 0 None 0 Woodwork1 None Forge 1.25 Gold Helmet: High grade armor, better than Silver
+GoldLegs 1 1 Item Armor 1 GoldPanel 4 GoldBolt 4 None 0 None 0 Woodwork1 None Forge 4.0 Gold Legs: High grade armor, better than Silver
+IronChest 1 1 Item Armor 1 IronPanel 6 IronBolt 6 None 0 None 0 Woodwork1 None Forge 3.0 Iron Chest: Middle grade armor, better than Copper
+IronFeet 1 1 Item Armor 1 IronPanel 3 IronBolt 2 None 0 None 0 Woodwork1 None Forge 1.50 Iron Boots: Middle grade armor, better than Copper
+IronHead 1 1 Item Armor 1 IronPanel 3 IronBolt 6 None 0 None 0 Woodwork1 None Forge 0.75 Iron Helmet: Middle grade armor, better than Copper
+IronLegs 1 1 Item Armor 1 IronPanel 4 IronBolt 4 None 0 None 0 Woodwork1 None Forge 2.25 Iron Legs: Middle grade armor, better than Copper
+MelvinHead 1 1 None Armor 0 None 0 None 0 None 0 None 0 None None None 4.0 Melvin's Helmet: Epic helmet
+NinjaHead 1 1 Item Armor 1 Cloth 5 Charcoal 2 Dye 1 None 0 Woodwork1 None None 1.0 Ninja Mask: High grade armor
+RadiumiteChest 1 1 Item Armor 1 RadiumiteBlock 4 PlatinumPanel 4 None 0 None 0 Woodwork1 None Forge 4.0 Radiumite Chest: Highest grade armor, better than Scrap
+RadiumiteFeet 1 1 Item Armor 1 RadiumiteBlock 2 PlatinumPanel 2 None 0 None 0 Woodwork1 None Forge 2.0 Radiumite Boots: Highest grade armor, better than Scrap
+RadiumiteHead 1 1 Item Armor 1 RadiumiteBlock 2 PlatinumPanel 2 None 0 None 0 Woodwork1 None Forge 1.0 Radiumite Helmet: Highest grade armor, better than Scrap
+RadiumiteLegs 1 1 Item Armor 1 RadiumiteBlock 3 PlatinumPanel 3 None 0 None 0 Woodwork1 None Forge 3.0 Radiumite Legs: Highest grade armor, better than Scrap
+ScrapChest 1 1 Item Armor 1 GoldChest 1 SilverChest 1 IronChest 1 None 0 Woodwork1 None Forge 6.0 Scrap Chest: Very High grade armor, better than Gold
+ScrapFeet 1 1 Item Armor 1 GoldFeet 1 SilverFeet 1 IronFeet 1 None 0 Woodwork1 None Forge 3.0 Scrap Boots: Very High grade armor, better than Gold
+ScrapHead 1 1 Item Armor 1 GoldHead 1 SilverHead 1 IronHead 1 None 0 Woodwork1 None Forge 1.50 Scrap Helmet: Very High grade armor, better than Gold
+ScrapLegs 1 1 Item Armor 1 GoldLegs 1 SilverLegs 1 IronLegs 1 None 0 Woodwork1 None Forge 4.5 Scrap Legs: Very High grade armor, better than Gold
+SilverChest 1 1 Item Armor 1 SilverPanel 6 SilverBolt 6 None 0 None 0 Woodwork1 None Forge 4.0 Silver Chest: Middle grade armor, better than Iron
+SilverFeet 1 1 Item Armor 1 SilverPanel 3 SilverBolt 2 None 0 None 0 Woodwork1 None Forge 2.0 Silver Boots: Middle grade armor, better than Iron
+SilverHead 1 1 Item Armor 1 SilverPanel 3 SilverBolt 6 None 0 None 0 Woodwork1 None Forge 1.0 Silver Helmet: Middle grade armor, better than Iron
+SilverLegs 1 1 Item Armor 1 SilverPanel 4 SilverBolt 4 None 0 None 0 Woodwork1 None Forge 3.0 Silver Legs: Middle grade armor, better than Iron
+SpringFeet 1 1 Item Armor 1 Cloth 2 Silver 1 None 0 None 0 Woodwork1 None None 0.50 Spring Shoes: Bouncing here and there and everywhere...
+TBHead 1 1 None Armor 0 None 0 None 0 None 0 None 0 None None None 1.0 TB Hat: w00t!
+WoodChest 1 1 Item Armor 1 WoodBlock 3 WoodPiece 4 None 0 None 0 Woodwork1 None WorkBench 1.0 Wood Chest: Lowest grade armor, better than being naked
+WoodFeet 1 1 Item Armor 1 WoodBlock 1 WoodPiece 1 None 0 None 0 Woodwork1 None WorkBench 0.50 Wood Boots: Lowest grade armor, better than being naked
+WoodHead 1 1 Item Armor 1 WoodBlock 1 WoodPiece 1 None 0 None 0 Woodwork1 None WorkBench 0.25 Wood Helmet: Lowest grade armor, better than being naked
+WoodLegs 1 1 Item Armor 1 WoodBlock 2 WoodPiece 2 None 0 None 0 Woodwork1 None WorkBench 0.75 Wood Legs: Lowest grade armor, better than being naked
+
+
+//Weapons - Melee
+CopperBlade 1 1 Item Weapon 1 CopperPanel 1 WoodPiece 5 None 0 None 0 Metalwork1 None Forge 0.50 Copper Blade: Low grade Blade, better than Stone
+CopperHammer 1 1 Item Weapon 1 CopperRod 2 WoodPiece 3 None 0 None 0 Metalwork1 None Forge 1.0 Copper Hammer: Low grade Hammer, better than Stone
+CopperSpear 1 1 Item Weapon 1 CopperRod 1 WoodBlock 2 None 0 None 0 Metalwork1 None Forge 0.50 Copper Spear: Low grade Spear, better than Stone
+CopperSword 1 1 Item Weapon 1 CopperPanel 3 WoodPiece 3 None 0 None 0 Metalwork1 None Forge 2.0 Copper Sword: Low grade Sword, better than Stone
+EagleBlade 1 1 Item Weapon 1 SilverBlade 1 GoldPanel 1 None 0 None 0 Metalwork2 None Forge 3.0 Eagle Blade: High grade Sword, Inspired by Eskinor
+FangClaw 1 1 Item Weapon 1 Leather 3 Fang 6 None 0 None 0 Metalwork2 None None 0.25 Fangclaw: Low damage, but very fast! - and does poison damage ;)
+GoldBlade 1 1 Item Weapon 1 GoldPanel 1 WoodPiece 5 None 0 None 0 Metalwork2 None Forge 1.0 Gold Blade: High grade Blade, better than Silver
+GoldHammer 1 1 Item Weapon 1 GoldRod 2 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 2.0 Gold Hammer: High grade Hammer, better than Silver
+GoldSpear 1 1 Item Weapon 1 GoldRod 1 WoodBlock 1 None 0 None 0 Metalwork2 None Forge 1.0 Gold Spear: High grade Spear, better than Silver
+GoldSword 1 1 Item Weapon 1 GoldPanel 3 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 4.0 Gold Sword: High grade Sword, better than Silver
+IronBlade 1 1 Item Weapon 1 IronPanel 1 WoodPiece 5 None 0 None 0 Metalwork2 None Forge 0.50 Iron Blade: Middle grade Blade, better than Copper
+IronHammer 1 1 Item Weapon 1 IronRod 2 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 1.0 Iron Hammer: Middle grade Hammer, better than Copper
+IronSpear 1 1 Item Weapon 1 IronRod 1 WoodBlock 1 None 0 None 0 Metalwork2 None Forge 0.50 Iron Spear: Middle grade Spear, better than Copper
+IronSword 1 1 Item Weapon 1 IronPanel 3 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 2.0 Iron Sword: Middle grade Sword, better than Copper
+Katana 1 1 Item Weapon 1 IronPanel 12 PlatinumPanel 1 Diamond 1 None 0 Metalwork2 None Forge 5.0 Katana: Epic grade Sword
+Net 1 1 Item Weapon 1 WoodBlock 1 Rope 2 None 0 None 0 Metalwork2 None WorkBench 0.50 Net: Used to catch animals
+RadiumiteSword 1 1 Item Weapon 1 RadiumiteBlock 3 Platinum 3 None 0 None 0 Metalwork2 None Forge 4.0 Radiumite Sword: Highest grade Sword
+SawSword 1 1 Item Weapon 1 SawBlade 1 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 3.0 Saw Sword: High grade Sword
+ScrapHammer 1 1 Item Weapon 1 SilverHammer 1 IronHammer 1 SilverBolt 10 None 0 Metalwork2 None Forge 10.0 Scrap Hammer: Epic grade Hammer, Inspired by forum member TuPpKaM
+SilverBlade 1 1 Item Weapon 1 SilverPanel 1 WoodPiece 5 None 0 None 0 Metalwork2 None Forge 0.75 Silver Blade: Middle grade Blade, better than Iron
+SilverHammer 1 1 Item Weapon 1 SilverRod 2 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 1.50 Silver Hammer: Middle grade Hammer, better than Iron
+SilverSpear 1 1 Item Weapon 1 SilverRod 1 WoodBlock 1 None 0 None 0 Metalwork2 None Forge 0.75 Silver Spear: Middle grade Spear, better than Iron
+SilverSword 1 1 Item Weapon 1 SilverPanel 3 WoodPiece 3 None 0 None 0 Metalwork2 None Forge 3.0 Silver Sword: Middle grade Sword, better than Iron
+Stick 1 1 Item Weapon 1 WoodPiece 2 None 0 None 0 None 0 Woodwork1 None None 0.05 Stick: You've gotta start with something...
+StoneBlade 1 1 Item Weapon 1 StoneBlock 1 StonePiece 2 None 0 None 0 Stonework1 None WorkBench 0.25 Stone Blade: Lowest grade Blade
+StoneHammer 1 1 Item Weapon 1 StoneBlock 1 WoodPiece 3 None 0 None 0 Stonework1 None WorkBench 0.50 Stone Hammer: Lowest grade Hammer
+StoneSpear 1 1 Item Weapon 1 StonePiece 3 WoodBlock 1 None 0 None 0 Stonework1 None WorkBench 0.25 Stone Spear: Lowest grade Spear
+StoneSword 1 1 Item Weapon 1 StoneBlock 2 WoodPiece 2 None 0 None 0 Stonework1 None WorkBench 1.0 Stone Sword: Lowest grade Sword
+WoodHammer 1 1 Item Weapon 1 WoodBlock 1 WoodPiece 2 None 0 None 0 Woodwork1 None WorkBench 1.0 Wood Hammer: Lowest grade Hammer
+
+
+//Weapons - Ranged
+AutoHandCannon 1 1 Item Weapon 1 HandCannon 1 Platinum 1 GoldGear 1 None 0 Woodwork1 None WorkBench 0.50 Auto Hand Cannon: Shoots 4x as fast as the Hand Cannon
+Boomerang 1 1 Item Weapon 1 WoodBlock 1 None 0 None 0 None 0 Woodwork1 None WorkBench 0.25 Boomerang: Low grade ranged weapon
+Bow 1 1 Item Weapon 1 WoodBlock 1 Rope 2 None 0 None 0 Woodwork1 None WorkBench 0.50 Bow: Low grade ranged weapon
+CrossBow 1 1 Item Weapon 1 WoodBlock 2 Rope 1 None 0 None 0 Woodwork1 None WorkBench 0.50 Crossbow: Low grade ranged weapon
+HandCannon 1 1 Item Weapon 1 IronRod 2 GunPowder 1 WoodBlock 1 None 0 Woodwork1 None WorkBench 3.0 Hand Cannon: High grade ranged weapon
+FlameCannon 1 1 Item Weapon 1 FireGland 1 PlatinumTube 3 GoldGear 2 None 0 Woodwork1 None Forge 3.0 Flame Cannon: Spray a fiery flame of death at your enemies
+SlingShot 1 1 Item Weapon 1 WoodPiece 2 Pebble 5 None 0 None 0 Woodwork1 None None 0.10 Sling Shot: Lowest grade ranged weapon
+
+//Other
+BrokenMirror 1 1 Item Usable 1 Diamond 1 PlatinumGear 1 SilverPanel 1 None 0 None None WorkBench 0.50 Broken Mirror: If you gaze into it, you'll be taken far, far away...
+Compass 1 1 Item Usable 1 Ruby 1 PlatinumGear 1 SilverPanel 1 None 0 None None None 0.50 Compass: Returns you to your spawn point
+Parachute 1 1 Item Other 1 Leather 3 Needle 5 Rope 2 None 0 None None None 0.50 Parachute: While in your quickbar, you take no fall damage
