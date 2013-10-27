@@ -5,9 +5,9 @@ An Indie, Side-scrolling, Action, RPG
 
 Created by:
 
-Mike Wiemholt (Weem - https://twitter.com/theweem)
-Forrest Hatfield (BlkStormy - https://twitter.com/BlkStormy)
-Brandon Williams
+- Mike Weem (https://twitter.com/theweem)
+- Forrest Hatfield (BlkStormy - https://twitter.com/BlkStormy)
+- Brandon Williams
 
 http://www.epicinventor.com
 
