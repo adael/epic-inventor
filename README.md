@@ -5,7 +5,7 @@ An Indie, Side-scrolling, Action, RPG
 
 Created by:
 
-- Mike Weem (https://twitter.com/theweem)
+- Mike Weem (http://www.youtube.com/weemcast)
 - Forrest Hatfield (BlkStormy - https://twitter.com/BlkStormy)
 - Brandon Williams
 
